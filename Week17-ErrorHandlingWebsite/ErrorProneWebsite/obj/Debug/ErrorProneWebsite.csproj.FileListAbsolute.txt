@@ -1,0 +1,7 @@
+E:\HND Y2\advanced programing\CTEC2902_Labs 1\Week17-ErrorHandlingWebsite\ErrorProneWebsite\bin\ErrorProneWebsite.dll.config
+E:\HND Y2\advanced programing\CTEC2902_Labs 1\Week17-ErrorHandlingWebsite\ErrorProneWebsite\bin\ErrorProneWebsite.dll
+E:\HND Y2\advanced programing\CTEC2902_Labs 1\Week17-ErrorHandlingWebsite\ErrorProneWebsite\bin\ErrorProneWebsite.pdb
+E:\HND Y2\advanced programing\CTEC2902_Labs 1\Week17-ErrorHandlingWebsite\ErrorProneWebsite\obj\Debug\ErrorProneWebsite.csproj.AssemblyReference.cache
+E:\HND Y2\advanced programing\CTEC2902_Labs 1\Week17-ErrorHandlingWebsite\ErrorProneWebsite\obj\Debug\ErrorProneWebsite.csproj.CoreCompileInputs.cache
+E:\HND Y2\advanced programing\CTEC2902_Labs 1\Week17-ErrorHandlingWebsite\ErrorProneWebsite\obj\Debug\ErrorProneWebsite.dll
+E:\HND Y2\advanced programing\CTEC2902_Labs 1\Week17-ErrorHandlingWebsite\ErrorProneWebsite\obj\Debug\ErrorProneWebsite.pdb

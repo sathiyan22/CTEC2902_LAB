@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
 
-        <h1>Welcome to the error-prone My first website</h1>
+        <h1>Welcome to the error-prone My First Website</h1>
 
         <!-- The label contains the contents of the content text file -->
         
